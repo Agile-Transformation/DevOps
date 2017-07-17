@@ -2,8 +2,6 @@
 
 Setup a web application with configuration management, automated deployment and integration.
 
-**P.S: Use this repository as the source of truth**
-
 # Tasks
 
 1. Create a hello world web application
